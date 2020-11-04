@@ -10,5 +10,3 @@ password = browser.find_element_by_id("pass")
 submit   = browser.find_element_by_id("loginbutton")
 username.send_keys("you@email.com")
 password.send_keys("yourpassword")
-# Step 4) Click Login
-submit.click()
