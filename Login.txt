@@ -14,3 +14,4 @@ password.send_keys("yourpassword")
 submit.click();
 // login done 
 //don't forgot to close browser 
+// work with chrome google instead of firefox
