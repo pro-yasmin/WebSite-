@@ -11,4 +11,6 @@ submit   = browser.find_element_by_id("loginbutton")
 username.send_keys("you@email.com")
 password.send_keys("yourpassword")
 # Step 4) Click Login
-submit.click()
+submit.click();
+// login done 
+//don't forgot to close browser 
